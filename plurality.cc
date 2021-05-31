@@ -15,6 +15,7 @@ int candidate_count;
 bool vote(string name);
 void print_winner(void);
 
+int delete_later; // delete
 
 typedef struct {
     string name;

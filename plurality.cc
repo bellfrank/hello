@@ -10,6 +10,7 @@ using namespace std;
 
 // Number of candidates
 int candidate_count;
+int adding_to_file; // added via github
 
 // Function Prototypes
 bool vote(string name);

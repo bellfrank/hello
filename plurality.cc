@@ -16,7 +16,7 @@ int adding_to_file; // added via github
 bool vote(string name);
 void print_winner(void);
 
-int delete_later; // delete now!
+int delete_later; // delete now! now!
 
 typedef struct {
     string name;
